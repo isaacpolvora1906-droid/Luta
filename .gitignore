@@ -1,0 +1,9 @@
+# Cache e importações do Godot (regenerados automaticamente)
+.godot/
+/android/
+
+# Builds exportados
+/build/
+*.apk
+*.aab
+*.pck
